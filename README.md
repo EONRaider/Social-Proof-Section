@@ -3,7 +3,9 @@
 [![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/social-proof-section?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/eonraider/social-proof-section)
 [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-EONRaider-blue?style=flat-square)](https://www.frontendmentor.io/profile/EONRaider)
 
-This is a solution to the [Social Proof Section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA) challenge. Frontend Mentor challenges help you improve your coding skills by
+This is a solution to
+the [Social Proof Section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA) challenge. Frontend
+Mentor challenges help you improve your coding skills by
 building realistic social-proof-sections.
 
 ## Table of contents
@@ -19,15 +21,18 @@ building realistic social-proof-sections.
 
 ### Screenshot
 
+![Social-Proof-Section](https://github.com/EONRaider/Social-Proof-Section/assets/15611424/c4de4c62-05af-41dd-8428-c08a08caf9e8)
+
 ### Links
 
-- [My Solution on Frontend Mentor]()
+- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-html5css3-social-proof-section-kEV4WYk1X_)
 - [Check the Live Site](https://eonraider-social-proof-section.netlify.app/)
 
 ## My process
 
 1. I started with the markup on index.html, complying with HTML5 semantic tags and standards as much as possible.
-2. The styling provided by the social-proof-section briefing was implemented first, followed by the classes I came up with on the
+2. The styling provided by the social-proof-section briefing was implemented first, followed by the classes I came up
+   with on the
    markup.
 3. I used Figma to acquire all the right dimensions involved in the layout and implemented them in the appropriate CSS
    classes.
