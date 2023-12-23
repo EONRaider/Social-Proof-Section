@@ -199,6 +199,7 @@ img {
                              445px         540px;
     }
 
+
     .content {
         grid-area: content;
     }
@@ -259,6 +260,7 @@ img {
     .background-container {
         height: 100%;
         width: 375px;
+        overflow: clip;
     }
 
     .bg-pattern-top {
@@ -276,6 +278,7 @@ img {
         height: 673px;
         flex-shrink: 0;
         bottom: 0;
+        left: -355px;
         background-repeat: no-repeat;
     }
 
@@ -319,6 +322,6 @@ img {
 
     .testimonial {
         height: 248px;
-        padding: 40px 32px 35px 32px;
+        padding: 40px 32px 35px;
     }
 }
