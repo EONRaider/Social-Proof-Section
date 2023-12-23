@@ -166,9 +166,6 @@ img {
     .background-container {
         width: 1440px;
         height: 800px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
     }
 
     .bg-pattern-top {
@@ -192,6 +189,7 @@ img {
     }
 
     .feature {
+        margin: 118px auto 0;
         width: 1110px;
         height: 582px;
         grid-template: "    content       ratings"   245px
